@@ -3,7 +3,7 @@ import Link from "next/link";
 const Header = () => {
   return (
     <header className="bg-gradient-to-r from-primary to-secondary text-white p-4 shadow-lg">
-     <h1 className="text-3xl flex justify-center items-center px-4 py-2 font-extrabold text-gradient text-indigo-300 bg-gradient-to-r from-indigo-500 to-purple-600 bg-clip-text text-transparent">
+     <h1 className="text-3xl flex justify-center items-center px-4 py-2 font-extrabold text-indigo-300 bg-clip-text text-transparent">
           My Portfolio
         </h1> 
       <nav className="container mx-auto flex justify-between items-center">
